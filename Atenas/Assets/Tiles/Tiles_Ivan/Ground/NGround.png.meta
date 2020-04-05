@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: cef393237bafbb84298bef94d4596bb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7612099718902395478
+    second: NGround_0
+  - first:
+      213: -5417191799688989863
+    second: NGround_1
+  - first:
+      213: 841210043078828442
+    second: NGround_2
+  - first:
+      213: 4561250058198703070
+    second: NGround_3
+  - first:
+      213: 7164813774911860995
+    second: NGround_4
+  - first:
+      213: 5030047161925528063
+    second: NGround_5
+  - first:
+      213: -8861752002971276648
+    second: NGround_6
+  - first:
+      213: 2961679376528764292
+    second: NGround_7
+  - first:
+      213: -7700060826783945519
+    second: NGround_8
+  - first:
+      213: 3610327129500200662
+    second: NGround_9
+  - first:
+      213: -238469501336571058
+    second: NGround_10
+  - first:
+      213: 1089680434109184030
+    second: NGround_11
+  - first:
+      213: -4906162572948699374
+    second: NGround_12
+  - first:
+      213: 5751191961108972095
+    second: NGround_13
+  - first:
+      213: -1946717235099555897
+    second: NGround_14
+  - first:
+      213: 4664167248173573693
+    second: NGround_15
+  - first:
+      213: -8534997823868669147
+    second: NGround_16
+  - first:
+      213: -149616506899549224
+    second: NGround_17
+  - first:
+      213: -8709613927761592709
+    second: NGround_18
+  - first:
+      213: -4520937223458093762
+    second: NGround_19
+  - first:
+      213: -5346126666721706434
+    second: NGround_20
+  - first:
+      213: -8336957439207274835
+    second: NGround_21
+  - first:
+      213: -8094787686347483300
+    second: NGround_22
+  - first:
+      213: 6699619104154889101
+    second: NGround_23
+  - first:
+      213: 8197143279019824816
+    second: NGround_24
+  - first:
+      213: 2477715459793436094
+    second: NGround_25
+  - first:
+      213: 1440732170994863833
+    second: NGround_26
+  - first:
+      213: -7852610293900712560
+    second: NGround_27
+  - first:
+      213: -2383933624631920223
+    second: NGround_28
+  - first:
+      213: -2626429113552831908
+    second: NGround_29
+  - first:
+      213: -1412685903551473215
+    second: NGround_30
+  - first:
+      213: -4757282050747425059
+    second: NGround_31
+  - first:
+      213: -5458932689721202043
+    second: NGround_0
+  - first:
+      213: 3642130499771672849
+    second: NGround_1
+  - first:
+      213: 7529672199103835613
+    second: NGround_2
+  - first:
+      213: 7344479918651992082
+    second: NGround_3
+  - first:
+      213: 422153198787852803
+    second: NGround_4
+  - first:
+      213: 3025824528033914042
+    second: NGround_5
+  - first:
+      213: 5857882945251472873
+    second: NGround_6
+  - first:
+      213: 1795677417224162827
+    second: NGround_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NGround_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a666034a9fd34b0800000000000000
+      internalID: -5458932689721202043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGround_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953f06b72c442d4b0800000000000000
+      internalID: -5417191799688989863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGround_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916437c3149cab00800000000000000
+      internalID: 841210043078828442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGround_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbd9aae2c0dc4f30800000000000000
+      internalID: 4561250058198703070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGround_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301727fda288e6360800000000000000
+      internalID: 7164813774911860995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGround_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff968025e315ec540800000000000000
+      internalID: 5030047161925528063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGround_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a6a4f318bb40580800000000000000
+      internalID: -8861752002971276648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGround_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48de89883bff91920800000000000000
+      internalID: 2961679376528764292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

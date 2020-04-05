@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 2cc0d7982a7481741bebdbb7e2629caf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dash: {fileID: 8300000, guid: 273edabc14fbbd546914309190298dc8, type: 3}
+  - swordSwing: {fileID: 8300000, guid: 2af164b83a1ee8c4cbb02621fbf0b2c2, type: 3}
+  - playerAttack01: {fileID: 8300000, guid: c8be9a5464de79e408d19bb238566582, type: 3}
+  - playerAttack02: {fileID: 8300000, guid: c7e1321c50554a74b98cf36fb64130ac, type: 3}
+  - step01: {fileID: 8300000, guid: 387fd41cf01591a43adf0044e0c059c1, type: 3}
+  - step02: {fileID: 8300000, guid: bd3c23d712398ba459470f0de49b9b91, type: 3}
+  - gethit: {fileID: 8300000, guid: e8660bbdebeb93d4abaf803ba953a750, type: 3}
+  - enemystep: {fileID: 8300000, guid: 31d3493cab9a1cf41a5cac6327710c8c, type: 3}
+  - goblinhit: {fileID: 8300000, guid: 23cacd9eeb180244fae69778474c5168, type: 3}
+  - goblindeath: {fileID: 8300000, guid: 4ab486f2eaea13f4aa6f31d691b304ca, type: 3}
+  - goblindeath02: {fileID: 8300000, guid: 73f8c0096866bf44b9dceb21bb4d10ce, type: 3}
+  - slimemoving: {fileID: 8300000, guid: 0d50368abf4687941a06f0f45c2b4d83, type: 3}
+  - button: {fileID: 8300000, guid: 71af023eb33e7d94d803c5839e4ff6c3, type: 3}
+  - opendoor_chest: {fileID: 8300000, guid: 9d8b4677d96696249b6f7f6e292c5f55, type: 3}
+  - puzzleerror: {fileID: 8300000, guid: dba20d287f6129148a48e849655d0a7d, type: 3}
+  - menuchange: {fileID: 8300000, guid: 703cfcbe3077e3840a6bff719262ef3f, type: 3}
+  - mainmusic: {fileID: 8300000, guid: 136e7b2dcf80c934bb69639e72359920, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

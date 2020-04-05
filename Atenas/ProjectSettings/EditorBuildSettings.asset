@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneMenus/Title_Menu.unity
+    guid: 4b19d44d9a061424683511118f576b6f
+  - enabled: 1
+    path: Assets/Scenes/Scenes_Marc/Pantano.unity
+    guid: f2d4186f59d3a944588d969622052965
+  - enabled: 1
+    path: Assets/Scenes/Scene_Javi.unity
+    guid: 49515e3f888f4064390aebf12297b852
+  - enabled: 1
+    path: Assets/Scenes/SceneIvan.unity
+    guid: 459e5190e8934244ea2b3bb580820c98
+  m_configObjects: {}
